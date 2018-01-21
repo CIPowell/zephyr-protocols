@@ -1,0 +1,8 @@
+{
+  "name": "zephyr-protocols",
+  "version": "1.0.0",
+  "description": "GRPC protocols for Zephyr",
+  "main": "index.js",
+  "author": "Chris I Powell <chris@chrisipowell.co.uk>",
+  "license": "MIT"
+}
